@@ -17,7 +17,7 @@
 - Shell Script
 
 ### CAD
-- Fusion360
+- Autodesk Fusion (Fusion360)
 - SOLIDWORKS
 - AutoCAD
 - KiCAD
